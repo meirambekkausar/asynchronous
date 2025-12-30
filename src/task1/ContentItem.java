@@ -2,6 +2,7 @@ package task1;
 
 public abstract class ContentItem {
 
+
     protected int id;
     protected static int idGen ;
     protected String title;
